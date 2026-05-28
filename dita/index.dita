@@ -6,5 +6,9 @@
   <body class="- topic/body ">
     <p class="- topic/p ">Here is a pretend paragraph introducing Google Gemini.</p>
     <p class="- topic/p ">And here is another pretend paragraph.</p>
+     <fig>
+      <title>Hambone</title>
+      <image href="images/Hambone.png"/>
+    </fig>
   </body>
 </topic>
