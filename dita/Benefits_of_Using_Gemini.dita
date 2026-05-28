@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept-8892" xml:lang="en-us" class="- topic/topic concept/concept ">
+  <title class="- topic/title ">Benefits of Using Gemini</title>
+  <shortdesc class="- topic/shortdesc ">There are so many benefits to using Gemini. </shortdesc>
+  <prolog class="- topic/prolog ">
+    <author translate="no" type="creator" class="- topic/author ">Rebekka Andersen &lt;randersen@ucdavis.edu&gt;</author>
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords "/>
+    </metadata>
+  </prolog>
+  <conbody class="- topic/body  concept/conbody ">
+    <p class="- topic/p ">This paragraph describes benefit number 1. Consider accessing the awesome website <xref href="https://en.wikipedia.org/wiki/Banana_pepper" scope="external" class="- topic/xref ">Wikipedia</xref></p>
+    <p class="- topic/p "> And this paragraph describes benefit number 2.</p>
+    <p class="- topic/p ">And this paragraph describes the final benefit.
+      <ul class="- topic/ul ">
+      <li class="- topic/li "><p class="- topic/p ">Green</p></li>
+      <li class="- topic/li "><p class="- topic/p ">Purple</p></li>
+      </ul></p>
+  </conbody>
+</concept>

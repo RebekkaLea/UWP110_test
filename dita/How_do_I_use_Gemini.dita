@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task-1104" class="- topic/topic task/task ">
+  <title class="- topic/title ">How do I use Gemini?</title>
+  <shortdesc class="- topic/shortdesc ">Here is a pretend short overview xxxxx.</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">Here is super important context for understanding this task topic.</context>
+    <steps class="- topic/ol task/steps ">
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Crush the peppers!</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Peel the bananas!</cmd>
+      </step>
+    </steps>
+    <result class="- topic/section task/result ">You should now have a weird grouping of ingredients to do something with.</result>
+  </taskbody>
+</task>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="ditamap-9427" class="- map/map ">
+  <title class="- topic/title ">Introduction to Google Gemini</title>
+  <topicref href="index.dita" class="- map/topicref "/>
+  <topicref href="Benefits_of_Using_Gemini.dita" class="- map/topicref "/>
+  <topicref href="How_do_I_use_Gemini.dita" class="- map/topicref "/>
+</map>
